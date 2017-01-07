@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Forge of Empires - Sniffer", "icon.png", "panel.html");
